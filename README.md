@@ -16,3 +16,4 @@
 - https://language-and-engineering.hatenablog.jp/entry/20120330/p1
 - https://yamakichi.hatenablog.com/entry/2016/11/19/201130
 - https://qiita.com/kiyokiyo_kzsby/items/ed0337dbbb43052b3000
+- https://qiita.com/kidach1/items/4b63de9ad5a97726c50c
