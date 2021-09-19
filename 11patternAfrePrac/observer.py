@@ -5,7 +5,6 @@ from random import randint
 class Subject(ABC):
     
     def __init__(self):
-        self._number = 0
         self._observers = []
     
     def attach(self, observer):
